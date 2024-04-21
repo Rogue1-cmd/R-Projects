@@ -1,0 +1,479 @@
+"Timestamp","Gender","Age","Platforms_Used","Social_Media_Usage_Purpose","Social_Media_Distraction_Frequency","Restless_Without_Social_Media","Ease_of_Distraction","Bothered_by_Worries","Difficulty_Concentrating","Comparison_Frequency","Feelings_About_Comparison","Validation_Seeking_Frequency","Depression_Frequency","Interest_Fluctuation_Frequency","Sleep_Issues_Frequency"
+"4/18/2022 19:18:47","Male",21,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",5,3,2,5,2,5,2,3,2,5,4,5
+"4/18/2022 19:19:28","Female",21,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",4,3,2,4,5,4,5,1,1,5,4,5
+"4/18/2022 19:25:59","Female",21,"Facebook, Instagram, YouTube, Pinterest",3,2,1,2,5,4,3,3,1,4,2,5
+"4/18/2022 19:29:43","Female",21,"Facebook, Instagram",4,2,1,3,5,3,5,1,2,4,3,2
+"4/18/2022 19:33:31","Female",21,"Facebook, Instagram, YouTube",3,5,4,4,5,5,3,3,3,4,4,1
+"4/18/2022 19:33:48","Female",22,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest, TikTok",4,4,2,3,4,3,4,4,3,3,2,4
+"4/18/2022 19:36:12","Female",21,"Facebook, Instagram, YouTube, Snapchat, TikTok",4,3,2,2,4,3,5,3,4,5,5,3
+"4/18/2022 19:36:17","Female",21,"Facebook, Instagram, YouTube",5,2,3,3,3,1,1,3,1,5,5,1
+"4/18/2022 19:39:36","Female",21,"Facebook, Instagram, YouTube",5,2,3,3,1,1,1,3,1,5,5,1
+"4/18/2022 19:44:06","Male",24,"Facebook, Instagram, YouTube, Discord",5,5,2,4,3,5,4,2,3,5,4,5
+"4/18/2022 19:44:10","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,4,2,5,3,4,2,2,3,3,4,2
+"4/18/2022 19:56:24","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",3,4,2,4,4,2,4,2,1,3,1,5
+"4/18/2022 19:57:04","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest",5,3,2,1,4,4,2,3,2,3,3,3
+"4/18/2022 19:59:08","Male",22,"Facebook, YouTube, Pinterest",5,5,5,5,5,5,5,5,5,5,5,5
+"4/18/2022 20:15:31","Male",23,"Facebook, Instagram, YouTube, Reddit",3,4,2,3,4,4,3,2,2,3,4,2
+"4/18/2022 20:15:38","Male",21,"Facebook, YouTube, Discord",2,2,1,2,4,2,1,3,1,4,1,3
+"4/18/2022 20:21:09","Male",25,"Facebook, Instagram, YouTube, Reddit",5,5,4,4,3,3,1,4,2,2,2,2
+"4/18/2022 20:22:02","Male",28,"Facebook, YouTube, Discord, Reddit",3,4,2,4,5,5,2,3,1,3,3,1
+"4/18/2022 20:28:03","Male",34,"Facebook, Twitter, Instagram, YouTube",2,4,3,3,4,1,1,5,3,2,2,2
+"4/18/2022 20:31:53","Male",22,"Facebook, Instagram, YouTube, Discord, Reddit",4,2,2,3,3,2,2,2,1,2,3,2
+"4/18/2022 20:32:59","Male",23,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",3,2,4,2,4,2,5,2,1,3,3,1
+"4/18/2022 20:33:36","Female",26,"Facebook, Instagram, YouTube, Pinterest",3,4,3,3,4,4,4,3,3,4,4,4
+"4/18/2022 20:35:50","Female",23,"Facebook, Instagram, YouTube, Snapchat, Pinterest",3,2,2,4,4,3,3,2,3,4,4,1
+"4/18/2022 20:36:42","Male",23,"Facebook, Twitter, YouTube, Discord",3,3,5,5,5,5,4,1,3,3,5,5
+"4/18/2022 20:38:00","Female",35,"Facebook, YouTube",4,4,3,3,3,3,4,4,4,4,2,2
+"4/18/2022 20:38:08","Male",20,"Facebook, Instagram, YouTube, Discord",4,4,3,3,3,4,2,3,3,4,3,4
+"4/18/2022 20:40:47","Male",35,"Facebook, Twitter, Instagram, YouTube",2,4,4,4,4,4,4,4,4,4,4,5
+"4/18/2022 20:42:23","Female",22,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",3,4,3,4,5,4,4,3,2,4,4,1
+"4/18/2022 20:45:33","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord",4,4,5,5,5,4,4,4,3,5,4,1
+"4/18/2022 20:49:37","Female",22,"Facebook, Instagram, YouTube, Discord",4,4,3,3,5,4,5,2,3,5,4,3
+"4/18/2022 20:50:39","Male",35,"Facebook, YouTube, Pinterest",3,4,3,3,3,2,2,2,2,3,4,2
+"4/18/2022 20:52:05","Male",24,"Facebook, Instagram, YouTube, TikTok",3,3,3,3,3,4,2,3,3,2,3,3
+"4/18/2022 20:53:37","Female",18,"Facebook, Instagram, YouTube, Discord, Pinterest",4,3,3,3,4,3,3,2,4,3,3,2
+"4/18/2022 20:54:50","Female",19,"Facebook, Instagram, YouTube, Discord",5,5,5,5,5,5,2,3,1,5,4,4
+"4/18/2022 20:55:44","Nonbinary ",21,"Facebook, Twitter, Instagram, YouTube, Discord",3,4,5,4,4,5,1,3,1,4,2,1
+"4/18/2022 20:55:48","Male",21,"Facebook, Instagram",5,3,4,3,2,3,5,3,4,3,3,1
+"4/18/2022 21:02:52","Male",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",2,3,1,1,1,3,1,3,1,5,4,5
+"4/18/2022 21:22:13","Female",22,"Facebook, Instagram, YouTube, Snapchat, Pinterest",4,5,5,4,4,4,2,3,3,2,2,5
+"4/18/2022 21:24:02","Male",22,"Facebook, YouTube, Discord",4,4,2,4,3,5,1,3,1,1,3,4
+"4/18/2022 21:32:37","Female",21,"Facebook, Instagram, YouTube, Snapchat",1,1,1,1,1,1,2,1,2,3,3,1
+"4/18/2022 21:42:54","Female",21,"Facebook, Instagram, YouTube, Snapchat",3,5,2,3,3,3,3,4,2,4,2,2
+"4/18/2022 21:48:07","Female",56,"YouTube",1,1,1,1,3,1,1,3,1,2,3,1
+"4/18/2022 21:48:34","Female",19,"Facebook, Instagram, YouTube, Snapchat, Pinterest",3,2,4,4,5,4,5,2,1,5,4,2
+"4/18/2022 21:49:19","Male",24,"Twitter, Discord, Reddit",5,1,1,3,3,3,1,3,3,3,3,3
+"4/18/2022 21:50:33","Female",22,"Facebook, Instagram, YouTube",4,5,4,4,5,2,3,3,3,3,2,3
+"4/18/2022 21:55:35","Male",65,"Facebook, YouTube",5,3,2,2,2,1,3,4,3,1,3,2
+"4/18/2022 22:00:21","Female",17,"Instagram, YouTube, Reddit, Pinterest",4,3,1,3,5,3,4,2,1,3,5,1
+"4/18/2022 22:04:59","Male",40,"Twitter, YouTube, Reddit",3,3,3,3,2,3,2,3,1,2,2,1
+"4/18/2022 22:07:08","Female",33,"Facebook, YouTube",3,3,1,3,2,1,2,2,1,1,1,1
+"4/18/2022 22:11:57","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,4,3,4,3,2,1,3,3,3,4,4
+"4/18/2022 22:20:42","Male",24,"YouTube, Snapchat, Discord",5,5,5,5,4,5,2,2,1,3,5,1
+"4/18/2022 22:23:35","Male",26,"Facebook",3,5,3,5,5,5,5,5,5,5,5,5
+"4/18/2022 22:30:15","Male",55,"Discord, Reddit",3,2,1,3,2,1,1,3,1,1,2,1
+"4/18/2022 22:39:40","Male",27,"Facebook, Twitter, Instagram, YouTube, Snapchat, Reddit, TikTok",2,5,5,4,4,5,3,3,4,5,2,3
+"4/18/2022 22:42:46","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",3,2,1,2,4,2,1,3,1,3,4,2
+"4/18/2022 22:43:04","Female",19,"Facebook, Instagram, YouTube, Discord, Pinterest",3,2,2,2,4,3,3,3,2,4,4,5
+"4/18/2022 22:51:44","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,5,2,4,4,4,3,3,4,5,4,2
+"4/18/2022 23:00:23","Female",20,"Instagram, Reddit",1,1,1,2,2,2,1,3,1,1,3,5
+"4/18/2022 23:05:21","Female",25,"Facebook, Twitter, Instagram, YouTube, Discord",4,3,3,4,4,4,2,2,2,4,3,4
+"4/18/2022 23:11:49","Female",25,"YouTube, Reddit",2,2,1,3,5,4,5,2,4,4,5,4
+"4/18/2022 23:12:03","Female",18,"Facebook, Instagram, YouTube, Pinterest",4,4,3,5,4,3,1,3,1,5,4,5
+"4/18/2022 23:19:30","Male",25,"Reddit",3,1,1,3,2,4,1,3,1,5,1,5
+"4/18/2022 23:23:52","Female",19,"Discord, Reddit",2,3,1,5,3,5,1,3,1,1,5,4
+"4/18/2022 23:38:02","Male",24,"YouTube, Discord, Reddit",3,2,4,3,2,2,1,3,2,2,4,4
+"4/18/2022 23:45:43","Male",21,"Facebook, Instagram, Reddit, TikTok",5,5,5,5,5,5,5,2,4,4,4,1
+"4/19/2022 0:10:02","Non-binary",18,"Twitter, Instagram, YouTube, Reddit, TikTok",2,1,2,3,5,3,2,3,2,4,2,4
+"4/19/2022 0:11:52","Male",14,"Reddit",4,2,2,3,5,3,3,4,2,4,4,4
+"4/19/2022 0:15:22","Male",25,"YouTube, Snapchat, Discord, Reddit",4,4,3,3,3,2,3,2,2,3,4,4
+"4/19/2022 0:18:43","Male",33,"Instagram, YouTube",2,4,3,2,2,2,1,1,1,1,2,2
+"4/19/2022 0:24:52","Male",23,"Instagram, YouTube, Discord, Reddit",5,5,5,5,5,5,5,5,5,5,5,5
+"4/19/2022 0:28:13","Female",14,"Twitter, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",4,4,2,2,4,2,4,2,4,4,4,5
+"4/19/2022 0:32:37","Male",38,"Twitter, YouTube, Discord, Reddit",5,2,1,3,2,1,1,3,1,2,1,2
+"4/19/2022 1:16:34","Female",23,"Facebook, YouTube, Discord, Reddit",4,4,3,3,4,5,3,2,4,5,5,4
+"4/19/2022 1:41:19","Male",26,"Reddit",2,1,1,3,2,1,1,1,1,2,3,4
+"4/19/2022 1:59:08","Male",24,"Facebook, YouTube, Reddit",4,5,3,4,3,2,2,3,4,5,4,2
+"4/19/2022 2:06:40","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",4,3,4,4,5,4,5,1,2,4,4,2
+"4/19/2022 2:18:48","Female",18,"Facebook, YouTube, Reddit",4,3,3,3,5,5,4,3,1,5,5,5
+"4/19/2022 2:27:30","Male",28,"Facebook, YouTube, Discord, Reddit",2,5,4,3,5,5,5,2,1,5,3,5
+"4/19/2022 2:58:24","Male",22,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,4,4,5,5,5,3,3,1,4,4,5
+"4/19/2022 3:40:47","Male",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",4,4,2,5,4,4,3,3,2,1,5,4
+"4/19/2022 4:53:05","Male",21,"Instagram, YouTube, Snapchat, Discord, Reddit",5,5,3,5,4,5,2,3,2,4,5,2
+"4/19/2022 5:20:55","Female",21,"Facebook, Instagram, YouTube, Pinterest",3,5,5,5,3,5,4,4,3,4,5,5
+"4/19/2022 6:31:10","Male",17,"Facebook, Twitter, Instagram, YouTube, Reddit",4,4,3,4,5,4,3,2,4,2,4,2
+"4/19/2022 7:10:09","NB",24,"YouTube, Reddit",4,3,2,3,5,2,3,2,2,4,3,1
+"4/19/2022 8:27:50","Female",22,"Facebook, YouTube",3,4,3,4,1,3,1,2,2,2,4,4
+"4/19/2022 8:36:53","Female",32,"Reddit",4,3,2,5,2,5,2,4,1,1,2,1
+"4/19/2022 8:38:23","Male",22,"Facebook, YouTube",5,4,2,2,1,3,1,3,5,3,2,2
+"4/19/2022 9:17:32","Female",20,"Facebook, Instagram, YouTube, Snapchat, Pinterest",4,5,4,5,5,5,4,2,4,5,5,4
+"4/19/2022 9:18:11","Male",22,"Facebook, Instagram, YouTube, Snapchat",3,5,2,4,4,4,2,3,2,4,4,3
+"4/19/2022 9:53:04","Female",28,"Facebook, YouTube",4,5,4,5,5,5,2,3,2,4,5,2
+"4/19/2022 9:57:28","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat",4,3,3,4,5,4,1,3,2,4,2,1
+"4/19/2022 10:24:04","unsure ",17,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",4,4,3,4,2,4,3,2,2,3,3,5
+"4/19/2022 10:25:50","Female",30,"Instagram",4,5,3,2,4,4,3,3,3,4,4,4
+"4/19/2022 10:59:42","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord",5,5,1,3,2,5,2,1,1,3,1,5
+"4/19/2022 13:52:52","Male",14,"Instagram, YouTube, Discord",5,5,2,4,2,3,1,3,1,1,3,5
+"4/19/2022 14:08:55","Male",20,"YouTube, Reddit",4,2,1,2,1,1,2,2,1,4,3,2
+"4/19/2022 14:21:22","Female",22,"Facebook, Instagram, YouTube, Pinterest",4,4,4,4,4,5,5,3,4,5,5,3
+"4/19/2022 14:45:58","Male",16,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,2,5,3,4,3,1,4,2,1,3
+"4/19/2022 16:36:16","Female",22,"Facebook, Twitter, Instagram, YouTube",3,4,3,4,4,3,2,2,3,3,2,3
+"4/19/2022 19:13:19","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,4,3,4,4,2,1,1,1,5,3,5
+"4/19/2022 19:30:11","Male",22,"Instagram",3,4,3,3,4,3,2,3,3,4,3,3
+"4/19/2022 19:31:05","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",4,3,4,3,5,5,3,3,4,3,5,5
+"4/19/2022 19:39:34","Female",21,"Facebook, Instagram, YouTube, Snapchat, Pinterest",2,3,4,3,3,3,3,4,4,1,3,3
+"4/19/2022 19:40:58","Female",23,"Facebook, YouTube",2,3,4,3,3,3,3,4,3,2,4,5
+"4/19/2022 20:10:46","Female",23,"Facebook, Instagram, TikTok",3,2,2,4,2,2,1,3,3,3,4,5
+"4/19/2022 20:13:21","Female",48,"Facebook, YouTube",1,1,1,1,3,2,1,3,2,1,1,1
+"4/19/2022 20:16:27","Female",21,"Facebook, Instagram, YouTube, Snapchat",3,2,1,3,2,3,2,1,3,2,2,5
+"4/19/2022 20:20:18","Female",47,"Facebook, Instagram, YouTube, Pinterest",4,3,3,3,2,2,2,3,3,3,3,3
+"4/19/2022 20:24:28","Male",48,"Facebook, Instagram, YouTube",3,3,4,4,4,4,4,3,3,2,3,3
+"4/19/2022 20:31:06","Female",26,"Facebook, Instagram, YouTube, Pinterest",4,5,4,4,5,3,5,4,3,4,2,3
+"4/19/2022 20:39:17","Male",47,"Facebook, YouTube",4,3,4,4,3,3,2,3,1,2,2,4
+"4/19/2022 20:42:18","Male",47,"Facebook, Instagram, Snapchat",2,4,3,3,3,3,3,3,2,2,3,4
+"4/19/2022 20:45:14","Female",27,"Facebook, Instagram, YouTube, Snapchat",2,5,4,4,3,2,5,1,4,4,4,1
+"4/19/2022 20:52:58","Female",34,"Facebook",5,5,4,5,3,1,3,3,3,2,5,4
+"4/19/2022 21:02:46","Female",20,"Facebook, Instagram",5,5,5,5,5,5,3,1,1,3,3,5
+"4/19/2022 21:07:16","Female",22,"Facebook",5,4,5,4,5,4,3,3,4,3,3,4
+"4/19/2022 21:10:27","Female",23,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",5,5,5,5,5,4,5,5,4,5,4,5
+"4/19/2022 21:10:51","Male",20,"Facebook, Instagram, YouTube",4,5,3,4,3,5,2,3,3,4,4,5
+"4/19/2022 21:12:27","Female",48,"Facebook, Instagram",2,4,1,3,2,1,1,3,2,1,1,1
+"4/19/2022 21:12:34","Female",20,"Facebook, Instagram, YouTube, TikTok",4,3,1,2,4,2,4,2,1,3,3,3
+"4/19/2022 21:15:10","Female",20,"Facebook, YouTube, Snapchat, Pinterest",4,5,5,5,2,5,2,3,1,5,4,3
+"4/19/2022 21:15:51","Female",22,"Facebook, Instagram, YouTube, Snapchat",4,5,4,5,5,5,3,1,1,4,2,2
+"4/19/2022 21:26:38","Female",22,"Instagram",5,5,3,3,2,3,4,5,4,1,4,1
+"4/19/2022 21:27:41","Female",20,"Facebook, Instagram, YouTube, Snapchat",4,4,3,5,4,3,2,2,2,4,5,3
+"4/19/2022 21:32:40","Male",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",1,1,3,3,4,4,3,3,2,4,4,4
+"4/19/2022 21:38:30","Female",23,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",3,2,4,3,5,3,5,1,4,4,2,5
+"4/19/2022 21:47:26","Female",20,"Facebook, Instagram, YouTube",5,2,1,2,1,1,5,1,1,4,5,3
+"4/19/2022 21:48:13","Male",16,"Instagram, YouTube, Snapchat, Pinterest",3,1,2,3,3,2,2,4,1,3,3,2
+"4/19/2022 21:50:59","Female",50,"Facebook, Instagram, YouTube, Discord, Pinterest",2,1,1,3,3,2,1,4,3,1,1,4
+"4/19/2022 21:51:39","Male",47,"Facebook, YouTube",4,2,2,3,2,1,4,2,3,3,2,2
+"4/19/2022 21:55:45","Male",24,"Facebook, Twitter, Instagram, YouTube",3,3,2,3,4,3,2,4,2,3,1,4
+"4/19/2022 21:57:38","Female",38,"Facebook",3,2,3,2,2,1,3,1,1,2,1,1
+"4/19/2022 22:09:58","Male",49,"Facebook, Twitter, Instagram, YouTube, Pinterest",5,5,3,3,4,3,3,3,3,4,4,5
+"4/19/2022 22:19:43","Female",47,"Facebook, YouTube, Pinterest",3,3,3,3,3,2,1,3,1,1,1,4
+"4/19/2022 22:22:21","Female",48,"Facebook, Twitter, Instagram, YouTube, Pinterest",3,3,1,3,1,1,1,1,1,1,1,1
+"4/19/2022 22:23:48","Male",51,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",4,3,2,3,3,4,3,3,3,3,3,3
+"4/19/2022 22:31:52","Male",50,"Facebook, Twitter, Instagram, YouTube",4,3,4,5,5,4,3,4,3,4,4,2
+"4/19/2022 22:39:43","Female",47,"Facebook, Twitter, Instagram, YouTube, Pinterest",3,2,2,2,2,2,3,4,1,1,2,1
+"4/19/2022 22:42:36","Female",27,"Facebook, Instagram, YouTube",4,5,2,5,5,5,5,2,3,3,5,4
+"4/19/2022 22:44:02","Female",40,"Facebook, Twitter, Instagram, YouTube",4,2,1,2,4,3,3,3,3,4,3,1
+"4/19/2022 22:45:25","Male",46,"Facebook, Twitter, Instagram, YouTube, Snapchat",3,1,1,1,2,1,1,3,5,2,2,2
+"4/19/2022 22:49:44","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord",4,3,4,3,3,2,5,2,3,5,5,5
+"4/19/2022 22:50:36","Female",47,"Facebook",4,4,3,3,2,2,4,2,3,3,3,3
+"4/19/2022 23:13:52","Female",20,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",4,4,3,4,4,4,5,1,4,4,3,4
+"4/19/2022 23:23:50","Female",47,"Facebook, Twitter, Instagram, YouTube",3,4,3,4,5,4,2,2,1,2,3,2
+"4/19/2022 23:28:22","Male",48,"Facebook, Instagram, YouTube",3,3,3,3,2,2,3,3,3,2,3,2
+"4/19/2022 23:28:51","Male",49,"Facebook, YouTube",4,3,2,2,2,2,2,4,2,2,2,4
+"4/19/2022 23:38:51","Male",21,"Facebook, YouTube, Discord",3,2,1,1,2,2,2,4,3,2,2,2
+"4/19/2022 23:43:46","Female",32,"Facebook, Instagram, YouTube, Discord, Pinterest",5,2,4,3,2,1,1,5,1,1,2,5
+"4/19/2022 23:51:19","Female",47,"Twitter, Instagram, YouTube",3,1,2,3,2,2,3,3,2,2,2,3
+"4/19/2022 23:53:34","Male",50,"Facebook, Twitter, YouTube",1,1,2,3,2,2,1,1,3,3,2,2
+"4/20/2022 0:00:36","Male",48,"Facebook, Twitter, Instagram, YouTube",5,1,1,2,4,2,1,3,3,4,2,5
+"4/20/2022 0:07:24","Female",21,"Facebook, Instagram, YouTube, Pinterest",2,2,1,5,4,5,3,3,2,3,5,4
+"4/20/2022 0:24:10","Male",47,"Twitter",1,1,2,5,3,4,2,3,1,2,4,4
+"4/20/2022 0:25:32","Female",36,"YouTube",3,2,1,2,4,4,1,1,1,1,1,4
+"4/20/2022 0:50:06","Female",37,"Facebook, Instagram, YouTube",3,1,2,2,1,3,1,2,2,4,2,4
+"4/20/2022 1:10:35","Female",19,"Facebook",5,4,4,3,5,4,2,5,4,4,5,5
+"4/20/2022 1:48:34","Male",30,"Facebook, Instagram, YouTube",4,2,1,2,2,1,4,2,2,2,2,5
+"4/20/2022 2:03:04","Male",48,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,1,1,1,1,1,5,3,2,1,5,2
+"4/20/2022 2:07:23","Female",48,"Facebook, Instagram, YouTube, Pinterest, TikTok",4,5,5,5,4,5,3,3,2,3,5,4
+"4/20/2022 3:54:33","Male",48,"Twitter, YouTube",3,2,3,3,4,3,2,3,2,3,3,4
+"4/20/2022 4:20:29","Male",47,"Twitter, Instagram, YouTube, Reddit, TikTok",3,2,3,5,5,5,2,5,2,3,2,4
+"4/20/2022 4:42:46","Female",47,"Facebook, Twitter",2,2,2,3,2,2,4,3,2,2,2,2
+"4/20/2022 5:54:28","Male",48,"Facebook, YouTube, Pinterest",5,1,1,2,2,1,1,1,1,2,1,4
+"4/20/2022 6:15:52","Male",21,"Facebook, Twitter, Instagram, YouTube, Pinterest",2,4,2,3,2,1,3,5,3,2,1,4
+"4/20/2022 6:28:00","Male",48,"Twitter, YouTube",2,2,1,2,1,1,2,3,1,1,2,2
+"4/20/2022 7:20:45","Male",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",2,3,2,4,3,3,2,3,1,2,2,1
+"4/20/2022 7:35:16","Male",20,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",5,5,5,4,2,4,3,3,1,3,3,4
+"4/20/2022 8:37:47","Female",20,"Facebook, YouTube",4,5,4,4,5,5,5,2,2,3,4,4
+"4/20/2022 10:51:46","Male",20,"Facebook, Instagram, YouTube",5,5,2,3,4,5,3,2,4,5,5,5
+"4/20/2022 11:25:38","Female",21,"Facebook, Instagram, YouTube, Snapchat",4,4,4,4,4,2,4,3,4,3,3,1
+"4/20/2022 11:43:27","Female",20,"Instagram, YouTube, Pinterest",4,3,5,5,4,4,5,4,3,4,4,5
+"4/20/2022 12:16:04","Male",47,"Twitter, Instagram, YouTube, Reddit, TikTok",4,3,3,2,4,3,1,2,1,1,2,1
+"4/20/2022 13:24:21","Female",35,"Facebook, YouTube",3,2,1,1,1,1,1,3,4,1,1,1
+"4/20/2022 13:24:25","Female",23,"Pinterest",5,3,3,4,3,5,1,3,3,4,3,5
+"4/20/2022 13:43:09","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",3,5,4,5,5,4,3,2,1,3,5,5
+"4/20/2022 14:41:02","Female",21,"Facebook, Instagram, YouTube, Pinterest",3,2,5,2,4,1,3,2,4,4,2,1
+"4/20/2022 16:11:22","Female",37,"Facebook, YouTube",5,4,4,3,5,2,5,2,2,4,4,5
+"4/20/2022 16:37:53","Male",48,"Facebook, Twitter, Instagram, YouTube",4,2,2,3,2,2,2,3,3,3,3,4
+"4/20/2022 16:44:37","Male",47,"Facebook, YouTube, TikTok",3,1,1,2,4,2,3,3,2,1,2,3
+"4/20/2022 17:44:50","Female",25,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest, TikTok",3,4,5,4,5,4,2,4,4,5,3,2
+"4/20/2022 18:14:32","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",5,5,4,5,4,3,2,3,3,3,4,4
+"4/20/2022 19:24:38","Male",45,"Facebook, YouTube",3,2,3,3,3,3,3,2,2,2,2,2
+"4/20/2022 19:28:00","Male",47,"Instagram, YouTube",4,3,2,4,3,2,2,3,3,3,2,1
+"4/20/2022 21:11:51","Female",47,"Facebook, Twitter, Instagram, YouTube, Pinterest",4,5,2,3,3,1,3,3,1,3,3,1
+"4/20/2022 21:18:36","Female",24,"Facebook, Instagram, Pinterest",5,3,4,3,4,5,3,3,3,4,3,4
+"4/20/2022 22:01:52","Female",21,"Instagram",5,5,5,5,1,5,2,5,5,2,5,5
+"4/20/2022 22:07:43","Female",22,"Facebook, YouTube, Discord, Reddit, Pinterest",3,2,2,2,2,2,1,3,3,4,2,1
+"4/20/2022 22:17:29","Female",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",3,4,3,3,3,3,3,5,3,4,3,1
+"4/20/2022 22:37:04","Female",21,"Facebook, Instagram, YouTube, Snapchat",3,3,2,4,2,4,3,2,1,4,4,4
+"4/20/2022 22:50:55","Female",22,"Facebook, Instagram, YouTube, Snapchat",5,3,3,3,5,3,2,3,4,5,3,4
+"4/20/2022 22:53:30","Male",20,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,4,4,5,4,1,3,4,4,5,5
+"4/20/2022 23:07:20","Female",42,"Facebook, Instagram, YouTube, Discord, Pinterest",3,1,1,1,1,1,1,3,1,1,3,1
+"4/20/2022 23:15:45","Female",35,"Facebook",5,3,2,2,1,3,2,4,1,3,2,2
+"4/20/2022 23:32:12","Male",38,"Facebook, Twitter, YouTube, Discord, Reddit",3,3,3,2,3,2,3,4,3,2,2,2
+"4/20/2022 23:45:22","Male",17,"Facebook, Instagram, YouTube",2,2,2,2,2,1,1,2,1,1,1,2
+"4/20/2022 23:51:18","Male",32,"Facebook, YouTube, Discord, Reddit",3,1,3,2,2,1,1,3,1,1,2,1
+"4/21/2022 0:36:13","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",3,3,2,5,4,5,4,2,2,2,3,2
+"4/21/2022 0:49:07","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",4,2,2,2,4,3,2,4,2,3,2,5
+"4/21/2022 0:59:28","Female",27,"Facebook, Instagram, YouTube",5,5,3,3,3,3,1,3,1,3,3,4
+"4/21/2022 1:33:04","Male",21,"Facebook, Instagram, YouTube, Discord, Reddit, TikTok",4,5,3,5,5,5,5,2,4,3,5,3
+"4/21/2022 1:39:06","Male",27,"Facebook, Discord, Reddit",5,5,5,5,5,5,1,3,1,5,5,5
+"4/21/2022 1:44:22","Male",20,"Instagram, Discord, Reddit, Pinterest, TikTok",3,2,3,2,3,2,3,2,3,2,1,4
+"4/21/2022 2:29:40","Female",27,"Facebook, Instagram, YouTube",4,4,4,5,4,3,2,2,1,1,3,2
+"4/21/2022 3:27:50","Male",24,"Facebook, Instagram, YouTube, Discord",5,5,5,5,1,5,5,4,1,5,5,4
+"4/21/2022 4:54:21","Female",26,"Facebook, Instagram, YouTube, Snapchat, Pinterest",3,2,1,1,1,1,1,1,1,1,1,1
+"4/21/2022 7:09:09","Female",20,"Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",2,1,1,2,5,3,5,4,3,4,3,4
+"4/21/2022 10:12:51","Male",31,"Facebook, Instagram, YouTube, Discord",3,3,3,3,4,3,4,4,4,3,3,2
+"4/21/2022 10:40:52","Male",21,"YouTube, Discord, Reddit",5,1,1,1,1,1,1,3,1,1,1,1
+"4/21/2022 13:23:38","Male",34,"Facebook, YouTube, TikTok",5,3,2,3,3,4,4,4,5,5,5,5
+"4/21/2022 13:36:29","Male",22,"Facebook, YouTube, Snapchat",1,1,1,1,1,1,1,1,1,1,1,1
+"4/21/2022 13:44:53","Female",20,"Instagram",3,3,1,3,5,3,2,3,5,4,5,1
+"4/21/2022 15:26:24","Male",23,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",4,2,1,1,3,1,1,3,1,3,2,1
+"4/21/2022 15:57:19","Male",48,"Facebook, YouTube",1,1,1,1,1,1,5,5,3,1,1,1
+"4/21/2022 17:47:15","Male",37,"Facebook, YouTube",4,4,1,3,4,4,4,4,3,2,3,2
+"4/21/2022 19:19:40","Male",22,"Facebook, Instagram, YouTube, Snapchat",3,3,2,3,4,4,4,4,3,5,4,4
+"4/21/2022 19:35:44","Male",50,"Facebook",3,2,3,3,3,5,4,5,5,2,4,3
+"4/21/2022 20:26:35","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat",4,4,4,5,5,5,4,2,3,3,4,4
+"4/21/2022 20:31:47","Female",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",4,4,1,3,2,2,1,2,1,2,4,1
+"4/21/2022 20:47:50","Female",21,"Facebook, YouTube",4,3,1,3,4,3,5,2,3,3,4,3
+"4/21/2022 22:29:45","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",3,3,3,3,3,2,2,3,3,3,3,3
+"4/21/2022 23:02:13","Female",22,"Facebook",3,1,4,4,3,4,3,4,3,4,4,3
+"4/21/2022 23:02:18","Female",22,"Facebook, Instagram, YouTube, Snapchat, TikTok",2,5,3,3,3,4,5,3,3,2,4,3
+"4/21/2022 23:11:32","Female",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",5,4,5,3,5,4,5,1,5,4,4,3
+"4/22/2022 0:24:31","Female",23,"Facebook, Instagram, YouTube",5,5,3,5,3,5,1,3,2,2,2,5
+"4/22/2022 2:35:48","Male",46,"Facebook, YouTube",2,1,1,1,1,1,1,2,1,1,3,4
+"4/22/2022 8:35:39","Male",21,"Facebook, Instagram, YouTube",4,5,3,4,4,4,3,3,4,4,4,5
+"4/22/2022 11:56:05","Female",24,"Facebook, Instagram, YouTube, Discord",2,3,1,2,4,3,4,4,3,4,1,1
+"4/22/2022 13:31:47","Female",20,"Facebook, Instagram, YouTube",3,1,1,1,2,2,5,1,2,1,3,1
+"4/22/2022 22:00:05","Male",25,"YouTube",5,5,1,1,2,3,4,5,3,5,2,5
+"4/22/2022 22:26:55","Female",21,"Facebook, YouTube, Discord, Pinterest",2,1,1,2,2,1,1,1,1,1,1,1
+"4/24/2022 5:23:27","Male",23,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, TikTok",4,4,3,5,4,4,4,2,1,4,4,3
+"4/26/2022 3:01:10","Female",22,"Instagram, YouTube, Discord, Reddit, TikTok",5,4,4,4,4,3,4,4,4,4,5,1
+"4/26/2022 21:59:19","Male",36,"Facebook, Instagram, YouTube, Pinterest",2,1,1,2,3,1,3,3,1,2,1,1
+"4/26/2022 22:13:41","Female",22,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",5,5,3,5,5,2,3,1,2,5,3,5
+"4/26/2022 23:02:27","Trans",69,"TikTok",5,5,5,5,5,5,5,5,5,5,5,5
+"4/26/2022 23:15:02","Female",25,"Facebook, Instagram, YouTube",3,4,2,5,5,1,5,1,5,4,5,5
+"4/26/2022 23:32:48","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",4,2,1,5,4,3,5,1,4,4,4,2
+"4/26/2022 23:56:35","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",3,4,2,5,5,5,5,4,4,2,3,4
+"4/27/2022 2:12:12","Male",23,"Facebook, Instagram",3,2,1,3,4,3,3,3,2,3,2,5
+"5/11/2022 19:06:27","Female",19,"Facebook, Instagram, YouTube, Discord",5,3,2,3,5,5,2,3,3,3,5,5
+"5/11/2022 19:07:15","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",3,5,2,4,2,2,1,4,2,3,2,3
+"5/11/2022 19:09:46","Female",27,"Facebook, Instagram, YouTube, Snapchat",5,5,3,4,4,4,4,2,3,4,4,2
+"5/11/2022 19:16:34","Female",25,"Facebook, YouTube, Discord",4,3,1,2,4,3,4,2,2,4,2,1
+"5/11/2022 19:19:39","Female",20,"Facebook, Instagram, YouTube, Snapchat",4,2,1,3,4,1,1,5,1,2,2,3
+"5/11/2022 19:27:46","Female",34,"Facebook",2,5,1,1,1,5,2,3,5,1,2,1
+"5/11/2022 19:30:14","Female",23,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",5,5,3,3,5,3,3,4,3,4,5,4
+"5/11/2022 19:31:52","Female",34,"Facebook",2,2,1,1,1,1,2,1,1,1,1,1
+"5/11/2022 19:35:33","Female",26,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",5,5,3,5,5,5,3,3,3,5,4,4
+"5/11/2022 19:45:08","Male",25,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",4,5,2,5,1,5,2,3,4,5,1,5
+"5/11/2022 19:47:05","Female",22,"Facebook, Instagram, YouTube, Pinterest",5,4,2,3,3,2,1,3,2,2,3,3
+"5/11/2022 19:47:43","Male",20,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,2,1,3,5,2,1,4,2,2,4,2
+"5/11/2022 19:47:44","Female",23,"Facebook, Instagram, YouTube, Snapchat",4,5,3,4,5,5,5,1,3,3,4,5
+"5/11/2022 19:48:59","Female",91,"Facebook, Instagram, YouTube, Snapchat, Discord",2,5,4,4,5,5,5,1,5,5,5,5
+"5/11/2022 19:51:18","Female",22,"Facebook, Instagram, YouTube, Snapchat, Discord",4,1,2,1,1,1,1,2,1,1,2,3
+"5/11/2022 19:51:38","Female",23,"Facebook, Instagram, YouTube, TikTok",3,3,2,3,3,4,3,3,4,4,3,2
+"5/11/2022 19:58:36","Female",21,"Facebook, Instagram, Discord",2,3,4,2,3,4,2,4,2,3,1,4
+"5/11/2022 20:12:15","Female",36,"Facebook, YouTube, Snapchat",4,1,1,2,2,1,1,3,2,2,3,3
+"5/11/2022 20:13:54","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",3,3,2,3,5,4,3,3,3,5,5,4
+"5/11/2022 20:15:24","Female",22,"Facebook, Instagram, YouTube",2,2,2,2,2,3,4,3,3,3,2,2
+"5/11/2022 20:15:30","Male",22,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest, TikTok",4,4,3,4,2,4,4,3,4,3,4,3
+"5/11/2022 20:17:40","Female",22,"Facebook, Instagram, YouTube, Snapchat",5,2,5,4,4,4,4,3,2,2,3,2
+"5/11/2022 20:18:08","Female",20,"Facebook, Instagram, YouTube, Discord",3,3,3,3,4,3,4,3,3,3,3,2
+"5/11/2022 20:19:55","Female",26,"Facebook, Twitter, Instagram, YouTube",4,4,1,3,3,2,2,4,1,2,2,4
+"5/11/2022 20:34:00","Male",21,"YouTube",3,3,2,5,5,4,2,3,2,4,2,4
+"5/11/2022 20:35:00","Female",20,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",4,5,3,5,5,5,2,3,1,3,4,5
+"5/11/2022 20:36:35","Female",21,"Facebook, Twitter, YouTube, Discord, Pinterest",3,2,1,2,3,1,1,3,1,3,3,2
+"5/11/2022 20:39:58","Female",19,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,2,1,5,2,3,1,3,1,2,1,5
+"5/11/2022 20:41:44","Female",20,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",4,5,5,5,5,5,5,1,4,5,5,5
+"5/11/2022 20:45:17","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",5,4,3,4,4,3,2,3,4,3,3,4
+"5/11/2022 20:50:59","Male",23,"YouTube, Discord, Reddit",2,2,1,5,5,5,1,3,1,5,1,5
+"5/11/2022 20:51:35","Male",21,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit",4,4,4,5,5,4,4,2,3,3,4,3
+"5/11/2022 20:57:23","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",5,4,2,5,5,4,4,3,3,5,5,5
+"5/11/2022 20:58:35","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord",5,5,3,5,5,5,5,5,5,5,5,5
+"5/11/2022 21:02:15","Male",26,"Facebook, Instagram, YouTube, Discord",5,5,5,5,5,5,5,5,1,5,5,5
+"5/11/2022 21:06:17","Female",22,"Facebook, Instagram, YouTube, Discord",4,4,2,3,5,3,1,3,4,5,2,2
+"5/11/2022 21:08:41","Male",17,"Discord",3,4,3,3,3,3,5,3,4,5,3,4
+"5/11/2022 21:14:02","Male",23,"Facebook, Instagram, YouTube, Discord, Pinterest, TikTok",4,3,3,4,5,4,5,4,4,3,4,5
+"5/11/2022 21:14:26","Male",21,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",2,4,2,4,5,4,5,4,4,4,3,3
+"5/11/2022 21:16:29","Female",22,"Facebook, Instagram, YouTube, Snapchat",1,1,1,1,1,1,2,2,1,2,1,2
+"5/11/2022 21:19:18","Male",20,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,3,2,5,3,4,2,1,5,4,5
+"5/11/2022 21:20:07","Female",24,"Facebook, Twitter, Instagram, YouTube",4,4,3,4,4,4,3,3,3,4,4,4
+"5/11/2022 21:20:30","Female",22,"Facebook, Instagram, YouTube, Snapchat",4,4,2,5,4,5,3,2,2,3,4,4
+"5/11/2022 21:22:00","Male",24,"Facebook, Twitter, Instagram, YouTube, Discord",4,3,2,3,2,3,2,1,3,2,3,2
+"5/11/2022 21:22:44","Female",22,"Facebook, Instagram, YouTube, Snapchat, Pinterest",3,4,4,5,5,4,5,2,4,5,4,4
+"5/11/2022 21:24:00","Male",26,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",3,3,2,2,4,2,2,3,4,4,2,2
+"5/11/2022 21:25:06","Female",24,"Facebook, Instagram, YouTube, Discord, Pinterest",2,1,1,2,4,2,1,1,3,3,2,4
+"5/11/2022 21:29:38","Female",22,"Facebook, YouTube",3,4,1,2,2,3,3,3,3,3,4,4
+"5/11/2022 21:30:18","Female",25,"Facebook, Instagram, YouTube, Snapchat, Discord",3,2,1,2,4,3,3,3,2,4,2,3
+"5/11/2022 21:32:12","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,5,3,4,4,5,2,3,3,4,5,4
+"5/11/2022 21:34:26","Female",20,"Facebook, Instagram, YouTube, Snapchat, TikTok",4,4,4,4,4,4,5,5,4,5,5,5
+"5/11/2022 21:35:12","Female",22,"Facebook, Instagram, YouTube",3,3,1,3,1,1,1,3,5,1,1,1
+"5/11/2022 21:35:32","Female",25,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",2,1,3,2,4,4,3,3,1,2,1,1
+"5/11/2022 21:36:18","Male",17,"Facebook, Discord",2,1,4,2,5,2,4,3,1,4,2,2
+"5/11/2022 21:38:40","Female",22,"Facebook, Twitter, Instagram, YouTube",4,2,3,3,5,4,4,3,3,4,3,5
+"5/11/2022 21:45:23","Male",26,"Facebook, Twitter, Instagram, YouTube, Reddit",3,4,2,4,4,4,2,2,1,3,3,2
+"5/11/2022 21:46:22","Female",22,"Facebook",2,3,2,3,3,3,4,3,3,5,3,3
+"5/11/2022 21:46:44","Male",23,"Facebook, Instagram, YouTube, Snapchat, Pinterest",3,4,5,3,5,3,3,3,3,5,1,4
+"5/11/2022 21:47:23","Male",25,"Facebook, Instagram, YouTube, Snapchat",4,2,2,3,5,4,1,1,2,5,5,5
+"5/11/2022 21:55:45","Male",21,"Instagram, YouTube, Snapchat, Discord, Reddit",4,5,3,5,2,5,2,3,4,4,5,2
+"5/11/2022 21:56:01","Female",30,"Facebook, TikTok",4,5,4,3,3,5,4,3,1,4,4,5
+"5/11/2022 21:56:21","Female",23,"Facebook, Instagram, YouTube",2,4,1,3,4,3,4,2,2,3,3,2
+"5/11/2022 21:56:34","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",4,5,4,5,5,4,3,3,3,3,4,2
+"5/11/2022 21:59:40","Female",21,"Facebook, Instagram, YouTube",5,5,5,4,4,3,5,2,2,5,4,3
+"5/11/2022 22:01:43","Female",20,"Facebook, YouTube",5,3,2,4,2,2,1,3,5,1,4,1
+"5/11/2022 22:03:42","Female",18,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",3,2,2,2,4,2,1,3,3,2,3,4
+"5/11/2022 22:05:17","Female",20,"Twitter, Instagram, YouTube",3,3,2,2,4,2,2,3,2,2,3,1
+"5/11/2022 22:06:07","Female",15,"Instagram, YouTube, Discord, Pinterest",4,3,1,3,5,3,3,3,1,5,4,5
+"5/11/2022 22:07:03","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,3,2,3,5,5,1,3,1,3,4,5
+"5/11/2022 22:08:06","Female",17,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",2,5,4,5,3,5,2,2,3,2,4,2
+"5/11/2022 22:10:28","Male",21,"Facebook, Instagram",2,3,1,4,5,4,3,3,1,5,5,5
+"5/11/2022 22:11:41","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",5,1,4,1,4,4,3,4,2,4,5,4
+"5/11/2022 22:11:39","Female",23,"Facebook",4,3,3,4,4,5,4,4,3,3,3,4
+"5/11/2022 22:11:40","Male",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",2,1,1,1,4,1,1,3,1,3,1,3
+"5/11/2022 22:14:03","Female",21,"Facebook, Instagram, YouTube, Snapchat",4,5,4,5,3,5,3,3,2,5,5,4
+"5/11/2022 22:20:02","Female",22,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",5,5,5,5,5,5,5,1,4,5,5,5
+"5/11/2022 22:21:41","Female",22,"Facebook, YouTube, Snapchat, Discord",5,5,5,5,5,5,5,5,5,5,5,5
+"5/11/2022 22:21:52","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, TikTok",3,4,5,4,5,4,5,5,3,5,4,5
+"5/11/2022 22:21:54","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest",3,3,2,2,4,4,4,3,3,4,2,4
+"5/11/2022 22:29:14","Male",18,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",5,4,1,2,4,3,1,3,3,3,3,5
+"5/11/2022 22:30:25","Male",19,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord",3,2,1,2,4,2,2,3,4,2,2,5
+"5/11/2022 22:32:22","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",5,4,2,4,5,5,1,1,1,5,1,5
+"5/11/2022 22:33:14","Non binary ",21,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",4,2,3,5,5,4,4,3,5,5,5,1
+"5/11/2022 22:33:56","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",5,5,4,5,5,4,5,5,3,5,3,5
+"5/11/2022 22:34:14","Male",22,"Facebook, Instagram, YouTube, Discord, Pinterest",4,5,4,4,5,5,2,2,5,5,5,4
+"5/11/2022 22:36:59","Female",21,"Facebook, Instagram, Snapchat, Pinterest, TikTok",4,4,1,3,2,2,2,2,2,4,3,2
+"5/11/2022 22:38:29","Male",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",5,4,3,5,4,5,3,2,2,4,4,4
+"5/11/2022 22:38:52","Male",19,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",4,2,2,2,3,1,2,5,1,1,3,4
+"5/11/2022 22:41:45","Male",26,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,3,2,4,3,3,4,3,1,4,2,2
+"5/11/2022 22:44:23","Male",27,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",5,5,2,2,1,1,2,4,1,3,2,3
+"5/11/2022 22:45:17","Female",25,"Facebook, Instagram, YouTube, Pinterest, TikTok",5,5,4,4,5,1,2,2,3,5,2,4
+"5/11/2022 22:46:45","Female",20,"Facebook, Instagram, YouTube, Discord",3,3,3,3,3,3,3,3,3,3,3,3
+"5/11/2022 22:50:30","Female",20,"Facebook, Twitter, Instagram, YouTube, Snapchat",4,2,4,3,5,4,1,3,2,4,4,2
+"5/11/2022 22:52:56","Male",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",4,4,1,3,3,1,1,1,1,1,2,2
+"5/11/2022 22:54:32","Female",18,"Facebook, Instagram, YouTube",5,5,2,5,4,5,5,2,4,4,5,5
+"5/11/2022 22:54:32","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit",4,3,2,3,4,3,2,4,1,3,1,3
+"5/11/2022 22:55:21","Male",20,"Facebook, Twitter, Instagram, Snapchat, Reddit",3,3,2,3,5,3,1,3,4,5,3,2
+"5/11/2022 22:57:00","Male",24,"YouTube, Discord",5,3,5,5,4,5,1,3,1,3,5,1
+"5/11/2022 23:02:07","Male",21,"Facebook, Instagram, YouTube",3,4,3,3,5,5,4,4,4,3,4,3
+"5/11/2022 23:11:25","Female",29,"Facebook, Instagram",5,3,1,3,5,3,2,2,1,5,5,5
+"5/11/2022 23:12:21","Male",21,"Facebook, Instagram, YouTube, Snapchat, Discord, TikTok",4,4,3,3,5,2,4,2,2,2,4,5
+"5/11/2022 23:16:01","Female",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,5,4,3,5,4,1,5,1,5,5,5
+"5/11/2022 23:17:37","Female",21,"Facebook, Instagram, YouTube, Snapchat, Discord",5,4,3,4,4,4,2,3,1,5,4,2
+"5/11/2022 23:22:48","Male",43,"Facebook, YouTube",2,1,1,1,1,1,1,3,3,1,1,1
+"5/11/2022 23:23:09","Female",22,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",5,5,3,4,4,4,4,1,1,4,2,1
+"5/11/2022 23:27:00","Male",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,5,3,5,5,5,1,3,1,3,2,1
+"5/11/2022 23:33:36","Female",18,"Facebook, YouTube",5,5,3,3,5,4,1,3,1,5,4,4
+"5/11/2022 23:34:52","Female",19,"Facebook, Instagram, YouTube, Snapchat, Discord",4,3,1,3,4,4,2,3,1,4,3,5
+"5/11/2022 23:35:01","Female",37,"Facebook, YouTube",2,2,1,3,3,2,2,3,1,3,3,4
+"5/11/2022 23:37:28","Male",24,"Facebook, Instagram, YouTube, Discord, Reddit",4,4,2,4,4,5,4,2,3,3,4,5
+"5/11/2022 23:38:27","Female",29,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",2,2,1,4,5,4,4,2,1,5,2,4
+"5/11/2022 23:40:03","Male",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",3,3,2,2,3,2,2,1,3,2,2,2
+"5/11/2022 23:41:55","Male",35,"Facebook, Instagram, YouTube, Discord",2,3,2,2,4,4,2,2,4,3,2,5
+"5/11/2022 23:43:43","Female",22,"Twitter, Discord, Reddit",4,5,4,5,5,4,3,3,1,4,4,2
+"5/11/2022 23:54:50","Male",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest",3,2,2,3,2,2,2,4,2,3,2,3
+"5/11/2022 23:59:06","Female",22,"Twitter, Instagram, TikTok",5,5,5,4,4,4,2,3,2,3,4,1
+"5/12/2022 0:07:36","Male",25,"Facebook, Instagram, YouTube, Snapchat, Discord",4,4,1,5,5,3,5,2,2,4,3,5
+"5/12/2022 0:16:23","Male",19,"Facebook, Instagram, YouTube, TikTok",3,3,4,3,3,3,4,3,3,3,3,2
+"5/12/2022 0:22:23","Female",29,"Facebook, Instagram, YouTube, Pinterest",4,4,1,3,3,3,2,3,1,2,2,4
+"5/12/2022 0:22:34","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",4,5,3,3,3,3,5,1,4,4,3,5
+"5/12/2022 0:26:26","Male",21,"Facebook, Instagram, YouTube, Snapchat, Discord",4,2,2,2,1,1,1,3,1,2,2,2
+"5/12/2022 0:29:35","Female",22,"Facebook, Instagram, YouTube, Snapchat, Discord",3,2,1,1,1,3,1,1,2,1,2,2
+"5/12/2022 0:30:42","Female",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",5,4,2,4,5,5,5,1,4,5,2,5
+"5/12/2022 0:32:26","Female",22,"Facebook, Instagram, YouTube",4,5,4,5,3,5,4,3,2,4,4,4
+"5/12/2022 0:41:56","Male",20,"Facebook, Instagram, YouTube, Snapchat, Discord",5,5,5,5,5,5,5,5,5,5,5,5
+"5/12/2022 0:49:37","There are others???",22,"Facebook, Instagram, YouTube, Snapchat",4,5,5,5,1,3,3,4,2,1,2,1
+"5/12/2022 0:52:26","Female",27,"Facebook, Instagram, Snapchat, Discord, Pinterest, TikTok",3,3,3,3,4,4,4,4,3,5,3,4
+"5/12/2022 0:54:52","Male",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,2,2,2,4,2,2,3,3,2,1,5
+"5/12/2022 0:55:49","Female",21,"Facebook, Instagram, YouTube, Snapchat",5,5,2,4,5,5,5,1,5,4,5,5
+"5/12/2022 1:12:04","Female",23,"YouTube, Pinterest",3,2,1,1,2,1,1,2,2,3,4,3
+"5/12/2022 1:30:48","Female",21,"Facebook, Twitter, Instagram, YouTube, Reddit, Pinterest",4,4,2,5,4,4,2,3,2,3,3,5
+"5/12/2022 1:36:02","Female",23,"Facebook, Twitter, Instagram, YouTube, Snapchat",4,4,3,3,4,2,4,2,3,2,2,1
+"5/12/2022 2:05:51","Female",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",3,2,2,3,5,3,5,2,3,5,5,4
+"5/12/2022 2:06:39","Male",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,2,2,3,4,3,1,3,2,5,2,4
+"5/12/2022 2:09:25","Female",30,"Facebook, Instagram, YouTube",4,5,3,5,5,5,4,2,5,4,5,4
+"5/12/2022 2:10:08","Male",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",3,4,2,2,5,4,5,5,5,5,2,2
+"5/12/2022 2:18:39","Female",22,"Facebook, Instagram, YouTube, Snapchat",4,3,3,3,2,2,3,3,1,1,3,2
+"5/12/2022 2:30:23","Female",29,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",5,5,3,5,4,5,5,3,3,5,5,5
+"5/12/2022 3:02:05","Male",20,"Instagram, YouTube, Discord, Reddit, Pinterest",4,3,2,3,5,5,5,5,5,5,5,1
+"5/12/2022 3:24:01","Female",26.7,"Facebook, YouTube",4,2,2,3,5,3,5,2,3,4,5,5
+"5/12/2022 3:24:27","Male",24,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",3,4,1,3,3,2,3,3,4,5,3,3
+"5/12/2022 3:26:43","Male",26,"Facebook, Instagram, YouTube, Snapchat",4,5,3,4,4,4,5,1,2,3,4,3
+"5/12/2022 3:37:23","Male",22,"Facebook, YouTube, Discord",5,4,2,3,3,4,3,4,1,2,2,4
+"5/12/2022 3:47:42","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",5,5,2,4,5,3,5,3,2,3,3,4
+"5/12/2022 3:57:27","Male",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",4,4,2,4,4,4,5,2,4,2,4,4
+"5/12/2022 4:35:58","Female",21,"Twitter, Instagram, YouTube, TikTok",3,4,3,4,4,4,5,1,2,4,4,2
+"5/12/2022 4:46:54","Female",20,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",5,5,5,5,5,5,2,3,2,4,4,5
+"5/12/2022 5:24:57","Male",22,"Facebook, Instagram, YouTube, Snapchat, Discord",4,4,4,4,2,3,2,3,4,3,3,4
+"5/12/2022 8:09:03","Male",22,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",3,3,3,4,5,5,4,3,1,5,3,3
+"5/12/2022 8:41:58","Male",23,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",5,4,4,5,5,5,2,3,1,5,5,5
+"5/12/2022 9:25:58","Female",22,"Facebook, Instagram, YouTube, Snapchat, Discord",4,5,5,5,5,5,5,2,4,5,4,1
+"5/12/2022 10:10:34","Female",20,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Pinterest, TikTok",5,4,2,3,3,2,1,3,3,2,2,2
+"5/12/2022 10:57:37","Female",27,"Facebook, Instagram, YouTube, Pinterest",4,2,1,2,3,1,2,3,4,2,2,1
+"5/12/2022 11:06:19","Female",22,"Facebook, Instagram, YouTube, Snapchat",5,4,4,4,4,4,2,4,3,5,4,3
+"5/12/2022 11:06:52","Female",21,"Facebook",4,4,3,5,4,5,4,3,4,5,5,5
+"5/12/2022 13:15:49","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Pinterest",2,1,4,2,2,2,3,3,2,1,4,4
+"5/12/2022 13:23:45","Female",24,"Facebook, Instagram, YouTube, Snapchat",3,4,1,5,4,5,3,3,4,5,5,5
+"5/12/2022 17:12:26","Male",19,"Facebook, Twitter, Instagram, YouTube",4,2,3,3,4,3,2,2,2,4,4,3
+"5/12/2022 18:11:43","Male",52,"Facebook, YouTube",2,2,3,3,3,2,3,2,2,3,2,4
+"5/12/2022 18:16:16","Male",26,"Facebook, Instagram, YouTube, Reddit, Pinterest, TikTok",5,4,3,4,4,4,3,3,2,3,4,5
+"5/12/2022 18:33:15","Male",44,"Facebook",1,1,1,2,1,1,1,1,1,1,1,1
+"5/12/2022 18:36:06","Male",44,"Facebook",1,1,1,1,1,1,1,1,1,1,1,1
+"5/12/2022 18:58:32","Female",19,"Facebook, YouTube, Discord, Pinterest",4,5,2,4,5,3,5,5,1,5,4,5
+"5/12/2022 19:12:34","Male",35,"Facebook, Snapchat, Reddit",5,5,5,5,5,5,5,1,1,5,5,5
+"5/12/2022 19:12:35","Female",21,"Facebook, Instagram, Snapchat",3,5,2,5,3,5,4,2,4,4,3,3
+"5/12/2022 19:12:44","Female",20,"Facebook, Instagram, TikTok",4,5,5,5,5,5,2,2,1,4,5,1
+"5/12/2022 19:15:46","Female",24,"Facebook, Twitter, Instagram, YouTube, Reddit",5,2,4,2,5,1,3,2,4,4,2,5
+"5/12/2022 19:23:39","Female",21,"Facebook, Instagram, YouTube, Reddit, Pinterest",4,4,3,5,5,5,5,1,1,3,3,1
+"5/12/2022 19:40:27","Male",24,"Facebook, Instagram, YouTube, Discord, Reddit",3,4,4,4,3,3,2,3,1,3,3,3
+"5/12/2022 19:41:28","Female",21,"Facebook, Instagram, YouTube, Snapchat",5,3,3,5,5,5,5,3,1,5,4,5
+"5/12/2022 19:47:26","Male",17,"Facebook, Instagram, YouTube, Discord",2,4,3,5,5,5,3,2,1,5,4,5
+"5/12/2022 19:51:21","Female",26,"Facebook",4,4,2,4,3,4,3,3,2,4,3,4
+"5/12/2022 20:08:23","Male",18,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,4,5,5,4,4,3,3,5,3,5
+"5/12/2022 20:13:27","Female",18,"Facebook, Instagram, YouTube, Discord",2,1,1,3,3,2,1,3,1,2,2,2
+"5/12/2022 20:17:31","Female",18,"Facebook, Instagram, YouTube, Snapchat, Reddit, Pinterest, TikTok",5,3,4,3,4,4,1,3,1,3,5,5
+"5/12/2022 21:00:17","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord",3,4,2,4,5,4,2,3,2,4,3,3
+"5/12/2022 21:06:04","Male",20,"Facebook, Instagram, YouTube, Snapchat, Discord",4,5,3,5,2,5,1,2,3,3,2,1
+"5/12/2022 21:10:04","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord",4,4,3,4,5,4,4,3,2,3,3,5
+"5/12/2022 21:13:24","Male",25,"Facebook, Twitter, Instagram, YouTube, Discord, Reddit, Pinterest",2,2,3,2,3,3,3,4,3,2,2,4
+"5/12/2022 21:25:54","Male",26,"Facebook, Instagram, YouTube, Reddit",4,3,3,3,5,4,4,1,4,5,5,4
+"5/12/2022 21:31:47","Male",20,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,3,4,5,4,5,2,4,4,4,5
+"5/12/2022 21:33:52","Male",19,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",4,3,1,3,4,2,2,3,3,1,4,3
+"5/12/2022 21:45:23","Female",17,"Facebook, Instagram, YouTube, Pinterest",4,1,3,2,5,4,5,5,1,4,4,1
+"5/12/2022 21:53:40","Female",24,"Facebook, Instagram, YouTube, Snapchat",4,3,5,3,3,5,4,2,3,3,3,3
+"5/12/2022 23:01:46","Female",29,"Facebook, Instagram, YouTube, Pinterest",5,5,5,4,5,4,3,3,4,4,4,3
+"5/12/2022 23:13:03","Female",30,"Facebook, Instagram, YouTube",1,5,1,2,3,3,2,4,3,3,3,2
+"5/12/2022 23:56:57","Female",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, TikTok",4,5,4,4,5,5,5,1,3,5,4,4
+"5/13/2022 0:15:32","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",4,3,2,4,4,4,3,3,3,5,5,5
+"5/13/2022 0:21:17","Male",21,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest",5,5,2,3,4,3,4,4,4,5,3,5
+"5/13/2022 0:27:42","Female",20,"Facebook, Instagram, YouTube, Discord",3,5,3,5,5,5,5,5,5,5,5,5
+"5/13/2022 1:06:00","Male",21,"Facebook, Twitter, Instagram, YouTube, Snapchat, Discord, Reddit",4,3,2,5,5,4,5,1,3,5,5,5
+"5/13/2022 1:16:02","Female",22,"YouTube",3,1,2,3,4,2,2,1,1,4,3,5
+"5/13/2022 1:20:52","Female",22,"Facebook, Instagram",3,2,2,2,5,3,5,2,5,3,3,5
+"5/13/2022 1:25:09","Female",22,"Facebook, Instagram, Snapchat",1,5,2,3,5,2,1,2,2,3,3,4
+"5/13/2022 1:27:34","Female",27,"Facebook, Instagram, YouTube, Reddit, TikTok",4,3,3,4,3,3,4,2,4,2,1,2
+"5/13/2022 1:30:50","Male",21,"Facebook, Instagram, YouTube",5,4,2,2,2,3,2,3,1,2,2,5
+"5/13/2022 1:46:36","Male",23,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, TikTok",4,3,2,4,4,3,4,4,4,4,3,4
+"5/13/2022 1:50:36","Male",22,"Facebook, Instagram, YouTube, Discord",4,4,5,4,2,4,3,3,4,2,3,4
+"5/13/2022 3:51:19","Female",21,"YouTube",3,4,4,3,3,3,2,5,3,1,3,2
+"5/13/2022 4:00:54","Male",23,"Facebook, YouTube, Discord, Reddit",4,2,1,2,3,2,3,3,1,3,2,2
+"5/13/2022 10:05:54","Female",21,"Facebook, Twitter, Instagram, YouTube, Pinterest",4,5,3,4,4,4,3,3,4,4,4,3
+"5/13/2022 11:00:38","Male",20,"Facebook, Instagram, YouTube",5,3,2,3,4,2,2,4,3,3,4,3
+"5/13/2022 11:12:46","Male",23,"Facebook, Instagram, YouTube, Discord, Reddit, Pinterest",2,1,1,2,5,3,3,4,1,3,2,4
+"5/13/2022 13:43:00","Female",22,"Facebook, Instagram, YouTube, Snapchat, Pinterest, TikTok",3,5,3,5,5,5,5,3,3,5,4,5
+"5/13/2022 14:28:58","Female",20,"Facebook, Instagram, YouTube, Snapchat",5,3,4,3,5,5,5,1,4,5,5,3
+"5/13/2022 16:26:54","Male",21,"Facebook, Instagram, YouTube, Snapchat, Discord",4,4,4,4,4,5,4,1,4,4,4,5
+"5/13/2022 16:32:03","Female",25,"Facebook, Twitter, Instagram, YouTube, Pinterest",3,5,2,2,3,3,1,3,1,2,4,5
+"5/13/2022 17:13:06","Female",21,"Facebook, Instagram, Discord",2,2,1,4,4,4,2,1,1,2,2,2
+"5/13/2022 17:32:46","Female",28,"Facebook, Instagram, YouTube, Discord, Reddit",4,3,1,4,5,4,1,3,1,4,1,5
+"5/13/2022 19:02:51","Female",22,"Facebook, Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",1,1,1,5,3,5,1,1,1,3,4,3
+"5/13/2022 19:48:20","Male",60,"Facebook, YouTube",1,2,1,1,1,1,3,3,3,1,1,1
+"5/13/2022 20:50:29","Male",49,"Facebook, YouTube, Pinterest",3,4,3,3,4,3,3,3,3,3,2,2
+"5/13/2022 21:40:01","Female",34,"Facebook, Instagram, YouTube",2,1,1,1,1,1,3,4,1,1,2,1
+"5/13/2022 22:43:21","Male",56,"Facebook, Twitter, YouTube, Pinterest",1,1,1,1,1,1,1,1,1,1,1,2
+"5/13/2022 23:36:54","Male",51,"Facebook, Twitter, Instagram, YouTube",3,2,3,4,2,3,4,3,3,2,2,4
+"5/14/2022 0:01:42","Female",23,"Facebook",3,3,3,3,3,2,2,3,3,4,2,2
+"5/14/2022 2:16:01","Female",21,"Facebook, YouTube, Discord",3,5,3,3,3,2,3,3,1,2,2,3
+"5/14/2022 7:11:35","Male",50,"Facebook, Instagram",1,1,1,1,1,1,1,1,1,1,1,1
+"5/14/2022 7:23:27","Female",22,"Twitter, Instagram, YouTube",2,2,1,4,5,5,1,4,1,3,5,2
+"5/14/2022 11:26:56","Female",28,"Facebook, Instagram, YouTube, Pinterest",5,4,1,5,4,5,2,2,2,5,5,2
+"5/14/2022 11:44:03","Male",13,"Instagram, YouTube, Discord",3,4,1,3,3,1,1,3,1,3,3,4
+"5/14/2022 11:46:09","Male",14,"Instagram, Discord",3,4,2,4,3,2,1,3,1,2,3,1
+"5/14/2022 12:12:16","Male",13,"Twitter, Instagram, YouTube, Discord, Pinterest",4,4,3,4,2,4,2,3,2,2,3,2
+"5/14/2022 13:40:14","Male",23,"Facebook, Instagram, YouTube, Discord",2,4,2,3,4,4,1,3,1,3,2,3
+"5/14/2022 16:16:32","Male",18,"Discord, Reddit",3,3,1,3,2,1,1,2,1,1,2,4
+"5/14/2022 17:33:37","Male",18,"Pinterest",2,3,1,3,5,3,5,1,2,5,2,1
+"5/14/2022 17:33:57","Male",15,"Instagram, YouTube, Discord, Reddit",1,1,1,3,3,3,3,3,3,1,1,1
+"5/15/2022 2:48:02","Female",20,"Instagram, YouTube, Snapchat, Discord, Reddit, Pinterest, TikTok",2,2,1,3,5,3,5,1,2,5,4,5
+"5/16/2022 20:20:31","Female",20,"Facebook, Instagram, YouTube",5,4,2,4,5,3,1,3,2,4,3,4
+"5/17/2022 17:12:19","Female",35,"Facebook, Instagram, YouTube",3,2,2,3,3,2,1,2,2,2,4,4
+"5/18/2022 2:12:59","Female",26,"Facebook, YouTube, TikTok",4,4,3,3,4,4,4,5,3,4,3,4
+"5/21/2022 22:19:10","Female",30,"Facebook, Instagram, YouTube",2,4,4,3,4,5,4,2,2,4,2,1
+"5/21/2022 22:33:02","Female",32,"Facebook, Instagram",5,5,3,5,5,5,5,1,4,5,5,4
+"5/21/2022 23:38:28","Male",24,"Facebook, Instagram, YouTube",3,4,3,4,3,4,4,2,4,3,4,4
+"5/22/2022 0:01:05","Female",26,"Facebook, YouTube",2,1,2,3,4,4,4,2,4,4,4,1
+"5/22/2022 10:29:21","Female",29,"Facebook, YouTube",3,3,4,3,2,3,3,3,4,2,2,2
+"7/14/2022 19:33:47","Male",21,"Facebook, Twitter, Instagram, YouTube, Discord, Pinterest",2,3,2,3,3,2,2,3,4,4,5,4
+"11/12/2022 13:16:50","Male",53,"Facebook, YouTube",2,3,1,3,1,1,3,3,2,2,2,3
