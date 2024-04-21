@@ -1,0 +1,277 @@
+---
+title: "unemployment_vs_education"
+output: html_document
+date: "2024-03-30"
+---
+
+```{r}
+#Israel
+file_path <- "israel.csv"
+data <- read.csv(file_path)
+data
+
+#Hungary
+file_path <- "hungary.csv"
+data <- read.csv(file_path)
+data
+
+#Turkiye
+file_path <- "turkiye.csv"
+data <- read.csv(file_path)
+data
+```
+
+SUMMARY STATISTICS
+
+```{R}
+#SUMMARY STATISTICS
+# Descriptive Statistics Israel
+file_path <- "israel.csv"
+israel_data <- read.csv(file_path)
+israel_data <- israel_data[, -1]
+israel_stats <- summary(israel_data)
+print("Descriptive Statistics for Israel:")
+print(israel_stats)
+
+# Descriptive Statistics Hungary
+file_path <- "hungary.csv"
+hungary_data <- read.csv(file_path)
+hungary_data <- hungary_data[, -1]  # Exclude the first column
+hungary_stats <- summary(hungary_data)
+print("Descriptive Statistics for Hungary:")
+print(hungary_stats)
+
+
+# Descriptive Statistics Turkiye
+file_path <- "turkiye.csv"
+turkiye_data <- read.csv(file_path)
+turkiye_data <- turkiye_data[, -1]  # Exclude the first column
+turkiye_stats <- summary(hungary_data)
+print("Descriptive Statistics for Turkiye:")
+print(turkiye_stats)
+```
+
+BOX PLOTS
+
+```{R}
+#Israel
+file_path <- "israel.csv"
+israel_data <- read.csv(file_path)
+israel_data <- israel_data[, -1] #excluding year column
+boxplot(israel_data, main = "Box Plot of Variables for Israel")
+
+#Hungary
+file_path <- "hungary.csv"
+hungary_data <- read.csv(file_path)
+hungary_data <- israel_data[, -1]
+boxplot(hungary_data, main = "Box Plot of Variables for Hungary")
+
+#Turkiye
+file_path <- "turkiye.csv"
+turkiye_data <- read.csv(file_path)
+turkiye_data <- turkiye_data[, -1]
+boxplot(turkiye_data, main = "Box Plot of Variables for turkiye")
+```
+
+CORRELATIONAL ANALYSIS
+
+```{R}
+# Load necessary libraries
+library(ggplot2)
+library(tidyr)  # For data manipulation
+library(dplyr)  # For data manipulation
+library(readr)  # For data reading
+
+# Read Israel data
+israel_file <- "israel.csv"
+israel_data <- read_csv(israel_file)
+israel_data <- select(israel_data, -Year)
+
+# correlation matrix
+israel_correlation <- cor(israel_data)
+
+# Visualizing the correlation matrix as a heatmap
+ggplot(data = reshape2::melt(israel_correlation)) +
+  geom_tile(aes(Var2, Var1, fill = value)) +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 0, limit = c(-1,1), space = "Lab", 
+                       name="Correlation") +
+  theme_minimal() +
+  coord_fixed() +
+  labs(title = "Correlation Heatmap for Israel Data")
+
+
+
+# Load necessary libraries
+library(ggplot2)
+library(tidyr)  # For data manipulation
+library(dplyr)  # For data manipulation
+library(readr)  # For data reading
+
+# Read Hungary data
+hungary_file <- "hungary.csv"
+hungary_data <- read_csv(hungary_file)
+hungary_data <- select(hungary_data, -Year)
+
+# Calculate the correlation matrix
+hungary_correlation <- cor(hungary_data)
+
+# Visualize the correlation matrix as a heatmap
+ggplot(data = reshape2::melt(hungary_correlation)) +
+  geom_tile(aes(Var2, Var1, fill = value)) +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 0, limit = c(-1,1), space = "Lab", 
+                       name="Correlation") +
+  theme_minimal() +
+  coord_fixed() +
+  labs(title = "Correlation Heatmap for Hungary Data")
+
+
+# Load necessary libraries
+library(ggplot2)
+library(tidyr)  # For data manipulation
+library(dplyr)  # For data manipulation
+library(readr)  # For data reading
+
+turkiye_file <- "turkiye.csv"
+turkiye_data <- read_csv(turkiye_file)
+turkiye_data <- select(turkiye_data, -Year)
+
+# Calculate the correlation matrix
+turkiye_correlation <- cor(turkiye_data)
+
+# Visualize the correlation matrix as a heatmap
+ggplot(data = reshape2::melt(turkiye_correlation)) +
+  geom_tile(aes(Var2, Var1, fill = value)) +
+  scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+                       midpoint = 0, limit = c(-1,1), space = "Lab", 
+                       name="Correlation") +
+  theme_minimal() +
+  coord_fixed() +
+  labs(title = "Correlation Heatmap for Turkiye Data")
+
+```
+
+REGRESSION ANALYSIS
+
+```{r}
+#Israel
+
+# Fit a linear regression model
+israel_lm <- lm(`Unemployment Rate` ~ `Educational Attainment`, data = israel_data)
+
+# Visualize the regression line
+ggplot(data = israel_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`)) +
+  geom_point() +  # Scatter plot of the data points
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +  # Fitted regression line
+  labs(title = "Regression Analysis for Israel Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate")
+
+#Hungary
+# Fit a linear regression model
+hungary_lm <- lm(`Unemployment Rate` ~ `Educational Attainment`, data = hungary_data)
+
+# Visualize the regression line
+ggplot(data = hungary_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`)) +
+  geom_point() +  # Scatter plot of the data points
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +  # Fitted regression line
+  labs(title = "Regression Analysis for Hungary Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate")
+
+
+#Turkiye
+# Fit a linear regression model
+turkiye_lm <- lm(`Unemployment Rate` ~ `Educational Attainment`, data = turkiye_data)
+
+# Visualize the regression line
+ggplot(data = turkiye_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`)) +
+  geom_point() +  # Scatter plot of the data points
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +  # Fitted regression line
+  labs(title = "Regression Analysis for Turkiye Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate")
+
+```
+
+KMEANS CLUSTERING
+
+```{r}
+#Israel
+# Perform k-means clustering
+set.seed(123)  # Set seed for reproducibility
+israel_cluster <- kmeans(israel_data, centers = 3)  # Assume 3 clusters for demonstration
+
+# Add cluster labels to the dataset
+israel_data$cluster <- factor(israel_cluster$cluster)
+
+# Visualize the clusters
+ggplot(data = israel_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`, color = cluster)) +
+  geom_point() +
+  labs(title = "K-means Clustering for Israel Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate",
+       color = "Cluster") +
+  theme_minimal()
+
+#Hungary
+# Perform k-means clustering
+library(ggplot2)
+set.seed(123)  # Set seed for reproducibility
+hungary_cluster <- kmeans(hungary_data, centers = 3)  # Assume 3 clusters for demonstration
+
+# Add cluster labels to the dataset
+hungary_data$cluster <- factor(hungary_cluster$cluster)
+
+# Visualize the clusters
+ggplot(data = hungary_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`, color = cluster)) +
+  geom_point() +
+  labs(title = "K-means Clustering for Hungary Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate",
+       color = "Cluster") +
+  theme_minimal()
+
+#Turkiye
+# Perform k-means clustering
+set.seed(123)  # Set seed for reproducibility
+turkiye_cluster <- kmeans(turkiye_data, centers = 3)  # Assume 3 clusters for demonstration
+
+# Add cluster labels to the dataset
+turkiye_data$cluster <- factor(turkiye_cluster$cluster)
+
+# Visualize the clusters
+ggplot(data = turkiye_data, aes(x = `Educational Attainment`, y = `Unemployment Rate`, color = cluster)) +
+  geom_point() +
+  labs(title = "K-means Clustering for Turkiye Data",
+       x = "Educational Attainment",
+       y = "Unemployment Rate",
+       color = "Cluster") +
+  theme_minimal()
+```
+
+DECISION TREES
+
+```{r}
+# Load necessary libraries
+library(rpart)
+library(rpart.plot)
+
+combined_data <- rbind(israel_data, hungary_data, turkiye_data)
+
+# Check the column names in combined_data
+print(colnames(combined_data))
+
+#Renaming columns
+colnames(combined_data) <- c("Educational_Attainment", "Unemployment_Rate")
+
+print(colnames(combined_data))
+
+# Fit a decision tree model
+tree_model <- rpart(Unemployment_Rate ~ Educational_Attainment, data = combined_data)
+
+# Visualize the decision tree
+rpart.plot(tree_model, box.palette = c("blue", "gray"), shadow.col = "gray")
+
+```
