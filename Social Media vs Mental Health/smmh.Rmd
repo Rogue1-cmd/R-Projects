@@ -1,0 +1,184 @@
+---
+title: "Effects of Social Media on Communication and Mental Health"
+output: html_document
+date: "2024-04-16"
+---
+
+>>Reading the Data
+```{r}
+
+# Import the dataset
+data <- read.csv("smmh.csv", header = TRUE)
+
+column_names <- names(data)
+print(column_names)
+
+# Rename the columns
+colnames(data) <- c("Timestamp", 
+                    "Age", 
+                    "Gender", 
+                    "Relationship_Status", 
+                    "Occupation_Status", 
+                    "Organizations_Affiliation", 
+                    "Social_Media_Use", 
+                    "Platforms_Used", 
+                    "Average_Social_Media_Time", 
+                    "Social_Media_Usage_Purpose", 
+                    "Social_Media_Distraction_Frequency", 
+                    "Restless_Without_Social_Media", 
+                    "Ease_of_Distraction", 
+                    "Bothered_by_Worries", 
+                    "Difficulty_Concentrating", 
+                    "Comparison_Frequency", 
+                    "Feelings_About_Comparison", 
+                    "Validation_Seeking_Frequency", 
+                    "Depression_Frequency", 
+                    "Interest_Fluctuation_Frequency", 
+                    "Sleep_Issues_Frequency")
+
+# Select only relevant columns (Timestamp, Gender, and columns where Social_Media_Use is "Yes")
+relevant_columns <- data[data$Social_Media_Use == "Yes", c("Timestamp", "Gender", "Age", "Platforms_Used", "Social_Media_Usage_Purpose", "Social_Media_Distraction_Frequency", "Restless_Without_Social_Media", "Ease_of_Distraction", "Bothered_by_Worries", "Difficulty_Concentrating", "Comparison_Frequency", "Feelings_About_Comparison", "Validation_Seeking_Frequency", "Depression_Frequency", "Interest_Fluctuation_Frequency", "Sleep_Issues_Frequency")]
+
+# Saving the data with the relevant columns to a new CSV file
+write.csv(relevant_columns, "relevant_data.csv", row.names = FALSE)
+
+relevant_data <- read.csv("relevant_data.csv", header = TRUE)
+
+print(colnames(relevant_data))
+```
+
+>ANALYSIS
+
+
+```{r}
+# for age
+age_summary <- summary(data$Age)
+print(age_summary)
+#Age Summary
+
+# Create a boxplot for the age variable
+boxplot(data$Age, main = "Boxplot of Age")
+
+# Calculate the interquartile range (IQR)
+Q1 <- quantile(data$Age, 0.25)
+Q3 <- quantile(data$Age, 0.75)
+IQR <- Q3 - Q1
+
+# Define the lower and upper bounds for outliers
+lower_bound <- Q1 - 1.5 * IQR
+upper_bound <- Q3 + 1.5 * IQR
+
+# Filter out values outside the bounds
+data_no_outliers <- subset(data, Age >= lower_bound & Age <= upper_bound)
+
+# Create a boxplot for the age variable without outliers
+boxplot(data_no_outliers$Age, main = "Boxplot of Age without Outliers")
+
+# Write the data with outliers removed to a new CSV file
+write.csv(data_no_outliers, "data_no_outliers.csv", row.names = FALSE)
+
+#New summary
+data <- read.csv("data_no_outliers.csv", header = TRUE)
+age_summary <- summary(data$Age)
+print(age_summary)
+print(summary(data))
+```
+
+
+>>CORRELATION ANALYSIS
+```{r}
+data <- read.csv("data_no_outliers.csv", header = TRUE)
+
+# Select the relevant columns for correlation analysis
+correlation_data <- data[c("Average_Social_Media_Time", "Feelings_About_Comparison", 
+                            "Bothered_by_Worries", "Difficulty_Concentrating", 
+                            "Interest_Fluctuation_Frequency", "Comparison_Frequency", 
+                            "Social_Media_Distraction_Frequency")]
+str(correlation_data)
+
+# Create a function to convert time intervals to numeric values
+library(stringr)
+convert_time_to_numeric <- function(interval) {
+  # Extract numeric values from the interval string
+  if (grepl("More", interval)) {
+    return(6)  # Assign 6 for "More than 5 hours"
+  } else {
+    # Extract the upper and lower bounds of the interval
+    bounds <- as.numeric(unlist(str_extract_all(interval, "\\d+")))
+    # Calculate the midpoint of the interval
+    return(mean(bounds))
+  }
+}
+
+# Apply the conversion function to the column
+correlation_data$Average_Social_Media_Time <- sapply(correlation_data$Average_Social_Media_Time, convert_time_to_numeric)
+
+# Check the updated dataframe
+str(correlation_data)
+
+# Calculate Pearson correlation coefficients
+correlation_matrix <- cor(correlation_data, use = "pairwise.complete.obs")
+
+# Print the correlation matrix
+print(correlation_matrix)
+
+# Load necessary libraries
+library(corrplot)
+
+# Set the size of the plot
+par(mar = c(1, 1, 1, 1))
+
+# Create a correlation plot
+corrplot(correlation_matrix, method = "color", type = "upper", 
+         tl.col = "black", tl.srt = 45, tl.cex = 0.7)
+
+```
+
+>>REGRESSION ANALYSIS
+
+```{r}
+# Read the data from the CSV file
+data <- read.csv("data_no_outliers.csv", header = TRUE)
+
+# Select the relevant columns for regression analysis
+regression_data <- data[c("Average_Social_Media_Time", "Feelings_About_Comparison", 
+                          "Bothered_by_Worries", "Difficulty_Concentrating", 
+                          "Interest_Fluctuation_Frequency", "Comparison_Frequency", 
+                          "Social_Media_Distraction_Frequency")]
+str(regression_data)
+
+# Load the necessary libraries
+library(stringr)
+
+# Create a function to convert time intervals to numeric values
+convert_time_to_numeric <- function(interval) {
+  # Extract numeric values from the interval string
+  if (grepl("More", interval)) {
+    return(6)  # Assign 6 for "More than 5 hours"
+  } else {
+    # Extract the upper and lower bounds of the interval
+    bounds <- as.numeric(unlist(str_extract_all(interval, "\\d+")))
+    # Calculate the midpoint of the interval
+    return(mean(bounds))
+  }
+}
+
+# Apply the conversion function to the column
+regression_data$Average_Social_Media_Time <- sapply(regression_data$Average_Social_Media_Time, convert_time_to_numeric)
+
+# Check the updated dataframe
+str(regression_data)
+
+# Perform linear regression
+lm_model <- lm(Average_Social_Media_Time ~ Feelings_About_Comparison + Bothered_by_Worries + 
+                 Difficulty_Concentrating + Interest_Fluctuation_Frequency + Comparison_Frequency + 
+                 Social_Media_Distraction_Frequency, data = regression_data)
+
+# Summarize the regression results
+summary(lm_model)
+
+# Plot the regression model
+plot(lm_model)
+
+
+```
